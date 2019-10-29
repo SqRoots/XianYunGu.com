@@ -1,16 +1,13 @@
 # 共形映射
-* ![](http://latex.codecogs.com/gif.latex?{f}(&space;z&space;)=\\arcsin&space;z)
-Conformal_Map_01.png
+* arcsin(z): Conformal_Map_01.png
 ![](/001_ConformalMapping/Conformal_Map_01.png)
 
 
-* ![](http://latex.codecogs.com/gif.latex?{f}(z)=\\arctan&space;z)
-Conformal_Map_02.png
+* arctan(z): Conformal_Map_02.png
 ![](/001_ConformalMapping/Conformal_Map_02.png)
 
 
-* ![](http://latex.codecogs.com/gif.latex?{f}(z)=\\ln&space;z)
-Conformal_Map_03.png
+* ln(z): Conformal_Map_03.png
 ![](/001_ConformalMapping/Conformal_Map_03.png)
 
 
