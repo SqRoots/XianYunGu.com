@@ -1,7 +1,7 @@
 # 共形映射
 * ![](http://latex.codecogs.com/gif.latex?{f}(&space;z&space;)=\\arcsin&space;z)
 Conformal_Map_01.png
-![](./Conformal_Map_01.png)
+![](/XianYunGu.com/001_ConformalMapping/Conformal_Map_01.png)
 
 
 * ![](http://latex.codecogs.com/gif.latex?{f}(z)=\\arctan&space;z)
