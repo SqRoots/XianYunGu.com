@@ -1,6 +1,6 @@
 # 共形映射
 * arcsin(z): Conformal_Map_01.png
-![](../Conformal_Map_01.png)
+![](/XianYunGu.com/tree/master/001_ConformalMapping/Conformal_Map_01.png)
 
 
 * arctan(z): Conformal_Map_02.png
